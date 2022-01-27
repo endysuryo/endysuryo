@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @endysuryo
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Python and DevOps
-- 💞️ I’m looking to collaborate on Community Project
+- 👀 I’m interested in Fullstack Developer
+- 🌱 I’m currently learning Golang and Kubernetes
 - 📫 How to reach me endysuryalaksana@gmail.com
 
 <!---
