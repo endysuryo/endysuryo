@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endysuryo
 - 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Golang and Kubernetes
+- 🌱 I’m currently learning React, Golang and Kubernetes
 - 📫 How to reach me endysuryalaksana@gmail.com
 
 <!---
