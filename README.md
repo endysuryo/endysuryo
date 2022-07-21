@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endysuryo
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning React, Golang and Kubernetes
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning React, Flutter and SwiftUI
 - 📫 How to reach me endysuryalaksana@gmail.com
 
 <!---
